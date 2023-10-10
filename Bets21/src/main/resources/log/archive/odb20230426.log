@@ -1,0 +1,1975 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:04:58 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 10400@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:04:58 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 19:04:58 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 19:04:58 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:04:58 #5 type.registry] 
+New type domain.Buzoia
+
+[2023-04-26 19:04:58 #6 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:04:58 #7 type.registry] 
+New type java.util.LinkedList<domain.User>
+
+[2023-04-26 19:04:58 #8 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 19:04:58 #9 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 19:04:58 #10 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-04-26 19:04:58 #11 type.registry] 
+New type domain.Mezua
+
+[2023-04-26 19:04:58 #12 type.registry] 
+New type java.util.LinkedList<domain.Mezua>
+
+[2023-04-26 19:04:58 #13 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:04:58 #14 type.registry] 
+New type domain.Question
+
+[2023-04-26 19:04:58 #15 type.registry] 
+New type domain.Event
+
+[2023-04-26 19:04:58 #16 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-04-26 19:04:58 #17 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:04:58 #18 type.registry] 
+New type domain.Quote
+
+[2023-04-26 19:04:58 #19 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 19:04:58 #20 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 19:04:58 #21 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 19:04:58 #22 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:04:58 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 19:04:58 #24 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:04:58 #25 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:04:58 #26 type.registry] 
+New type domain.Admin
+
+[2023-04-26 19:04:58 #27 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:04:58 #28 type.registry] 
+New type domain.Langile
+
+[2023-04-26 19:04:58 #29 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:08:23 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 15156@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:08:23 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 19:08:23 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 19:08:23 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:08:23 #5 type.registry] 
+New type domain.Buzoia
+
+[2023-04-26 19:08:23 #6 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:08:23 #7 type.registry] 
+New type java.util.LinkedList<domain.User>
+
+[2023-04-26 19:08:23 #8 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 19:08:23 #9 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 19:08:23 #10 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-04-26 19:08:23 #11 type.registry] 
+New type domain.Mezua
+
+[2023-04-26 19:08:23 #12 type.registry] 
+New type java.util.LinkedList<domain.Mezua>
+
+[2023-04-26 19:08:23 #13 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:08:23 #14 type.registry] 
+New type domain.Question
+
+[2023-04-26 19:08:23 #15 type.registry] 
+New type domain.Event
+
+[2023-04-26 19:08:23 #16 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-04-26 19:08:23 #17 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:08:23 #18 type.registry] 
+New type domain.Quote
+
+[2023-04-26 19:08:23 #19 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 19:08:23 #20 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 19:08:23 #21 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 19:08:23 #22 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:08:23 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 19:08:23 #24 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:08:23 #25 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:08:23 #26 type.registry] 
+New type domain.Admin
+
+[2023-04-26 19:08:23 #27 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:08:23 #28 type.registry] 
+New type domain.Langile
+
+[2023-04-26 19:08:23 #29 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:08:40 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-4)
+
+[2023-04-26 19:08:40 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 1860@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:08:40 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:08:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:08:40 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-04-26 19:08:40 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:08:40 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-04-26 19:08:40 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:08:40 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:08:40 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:08:40 #11 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:08:40 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:09:43 #13 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:10:57 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 10180@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:10:57 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 19:10:57 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 19:10:57 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:10:57 #5 type.registry] 
+New type domain.Buzoia
+
+[2023-04-26 19:10:57 #6 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:10:57 #7 type.registry] 
+New type java.util.LinkedList<domain.User>
+
+[2023-04-26 19:10:57 #8 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 19:10:57 #9 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 19:10:57 #10 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-04-26 19:10:57 #11 type.registry] 
+New type domain.Mezua
+
+[2023-04-26 19:10:57 #12 type.registry] 
+New type java.util.LinkedList<domain.Mezua>
+
+[2023-04-26 19:10:57 #13 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:10:57 #14 type.registry] 
+New type domain.Question
+
+[2023-04-26 19:10:57 #15 type.registry] 
+New type domain.Event
+
+[2023-04-26 19:10:57 #16 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-04-26 19:10:57 #17 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:10:57 #18 type.registry] 
+New type domain.Quote
+
+[2023-04-26 19:10:57 #19 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 19:10:57 #20 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 19:10:57 #21 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 19:10:57 #22 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:10:57 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 19:10:57 #24 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:10:57 #25 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:10:57 #26 type.registry] 
+New type domain.Admin
+
+[2023-04-26 19:10:57 #27 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:10:57 #28 type.registry] 
+New type domain.Langile
+
+[2023-04-26 19:10:57 #29 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:13:56 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 18364@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:14:05 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 19:14:05 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:15:41 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 13776@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:15:42 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 19:15:42 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 19:15:42 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:15:42 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:15:42 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 19:15:42 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 19:15:42 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:15:42 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 19:15:42 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 19:15:42 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:15:42 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 19:15:42 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 19:15:42 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 19:15:42 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 19:15:42 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:15:42 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 19:15:42 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:15:42 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:15:42 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 19:15:42 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:15:42 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 19:15:42 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 19:15:42 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 19:15:42 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 19:15:42 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:15:59 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 19:15:59 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 18192@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:15:59 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:15:59 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:15:59 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:15:59 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:15:59 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:15:59 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:15:59 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:15:59 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:15:59 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:27:47 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-21)
+
+[2023-04-26 19:27:47 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 7464@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:27:47 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:27:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:27:47 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:27:47 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:27:47 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:27:47 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:27:47 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:27:47 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:27:47 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:30:19 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 22-27)
+
+[2023-04-26 19:30:20 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12952@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:30:20 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:30:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:30:20 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:30:20 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:30:20 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:30:20 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:30:20 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:30:20 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:30:20 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:31:47 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 28-33)
+
+[2023-04-26 19:31:47 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9820@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:31:48 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:31:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:31:48 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:31:48 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:31:48 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:31:48 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:31:48 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:31:48 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:31:48 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:36:25 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 10672@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:36:25 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 19:36:25 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 19:36:25 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:36:25 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:36:25 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 19:36:25 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 19:36:25 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:36:25 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 19:36:25 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 19:36:25 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:36:25 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 19:36:25 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 19:36:25 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 19:36:25 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 19:36:25 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:36:25 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 19:36:25 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:36:25 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:36:25 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 19:36:25 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:36:25 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 19:36:25 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 19:36:25 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 19:36:25 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 19:36:25 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:36:37 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 19:36:37 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 11740@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:36:37 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:36:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:36:37 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:36:37 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:36:37 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:36:37 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:36:37 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:36:37 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:36:37 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:41:58 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-25)
+
+[2023-04-26 19:41:58 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 15052@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:41:58 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:41:58 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:41:58 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:41:58 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:41:58 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:41:58 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:41:58 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:41:58 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:41:58 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:42:15 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 17216@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:42:15 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:42:15 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:42:15 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:42:15 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:42:15 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:42:15 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:42:15 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:42:15 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:42:15 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 19:45:58 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 26-28)
+
+[2023-04-26 19:45:58 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12248@LAPTOP-P1V2HGHC
+
+[2023-04-26 19:45:58 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 19:45:58 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 19:45:58 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 19:45:59 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 19:45:59 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 19:45:59 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 19:45:59 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 19:45:59 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 19:45:59 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:02:27 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 29-34)
+
+[2023-04-26 20:02:27 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 7548@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:02:27 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:02:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:02:27 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:02:27 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:02:27 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:02:27 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:02:27 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:02:27 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:02:27 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:17:30 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 35-36)
+
+[2023-04-26 20:17:30 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 17120@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:17:30 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:17:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:17:30 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:17:30 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:17:30 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:17:30 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:17:30 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:17:30 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:17:30 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:20:25 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 37-42)
+
+[2023-04-26 20:20:25 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 6556@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:20:25 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:20:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:20:25 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:20:25 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:20:25 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:20:25 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:20:25 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:20:25 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:20:25 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:22:29 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 43-44)
+
+[2023-04-26 20:22:29 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 14512@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:22:30 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:22:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:22:30 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:22:30 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:22:30 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:22:30 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:22:30 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:22:30 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:22:30 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:48:41 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 45-48)
+
+[2023-04-26 20:48:41 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9852@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:48:41 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:48:41 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:48:41 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:48:41 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:48:41 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:48:41 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:48:41 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:48:41 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:48:41 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:49:47 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 49-51)
+
+[2023-04-26 20:49:47 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 4544@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:49:47 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:49:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:49:47 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:49:47 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:49:47 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:49:47 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:49:47 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:49:47 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:49:47 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 20:52:11 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 52-54)
+
+[2023-04-26 20:52:11 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 2580@LAPTOP-P1V2HGHC
+
+[2023-04-26 20:52:11 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 20:52:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 20:52:11 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 20:52:11 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 20:52:11 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 20:52:11 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 20:52:11 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 20:52:11 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 20:52:11 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 21:19:02 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 7944@LAPTOP-P1V2HGHC
+
+[2023-04-26 21:19:02 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 21:19:02 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 21:19:02 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 21:19:02 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 21:19:03 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 21:19:03 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 21:19:03 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 21:19:03 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 21:19:03 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 21:23:47 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 55-58)
+
+[2023-04-26 21:23:47 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 13088@LAPTOP-P1V2HGHC
+
+[2023-04-26 21:23:47 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 21:23:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 21:23:47 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 21:23:47 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 21:23:47 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 21:23:47 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 21:23:47 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 21:23:47 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 21:23:47 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 21:25:47 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 3180@LAPTOP-P1V2HGHC
+
+[2023-04-26 21:25:47 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 21:25:47 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 21:25:47 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 21:25:47 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 21:25:47 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 21:25:47 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 21:25:47 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 21:25:47 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 21:25:47 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 21:31:03 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 4300@LAPTOP-P1V2HGHC
+
+[2023-04-26 21:31:03 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 21:31:03 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 21:31:03 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 21:31:03 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 21:31:03 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 21:31:03 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 21:31:03 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 21:31:03 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 21:31:03 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 21:35:26 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 6920@LAPTOP-P1V2HGHC
+
+[2023-04-26 21:35:27 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 21:35:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 21:35:27 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 21:35:27 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 21:35:27 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 21:35:27 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 21:35:27 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 21:35:27 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 21:35:27 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:06:10 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 8400@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:06:10 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:06:10 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:06:10 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:06:10 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:06:10 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:06:10 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:06:10 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:06:10 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:06:10 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:10:32 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 59-61)
+
+[2023-04-26 22:10:32 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 8156@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:10:32 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:10:32 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:10:32 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:10:32 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:10:32 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:10:32 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:10:32 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:10:32 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:10:32 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:12:50 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 14944@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:12:50 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:12:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:12:50 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:12:50 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:12:50 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:12:50 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:12:50 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:12:50 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:12:50 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:13:01 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 10552@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:13:02 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:13:02 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:13:02 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:13:02 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:13:02 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:13:02 #7 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:13:02 #8 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:13:02 #9 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:13:02 #10 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:21:54 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 62-64)
+
+[2023-04-26 22:21:54 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 7500@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:21:54 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:21:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:21:54 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:21:54 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:21:54 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:21:54 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:21:54 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:21:54 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:21:54 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:49:50 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 65-68)
+
+[2023-04-26 22:49:50 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9308@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:49:50 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:49:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:49:50 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:49:50 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:49:50 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:49:50 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:49:50 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:49:50 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:49:50 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:50:59 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 10680@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:50:59 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 22:50:59 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 22:50:59 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:50:59 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:50:59 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 22:50:59 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 22:50:59 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:50:59 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 22:50:59 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 22:50:59 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:50:59 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 22:50:59 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 22:50:59 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 22:50:59 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 22:50:59 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:50:59 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 22:50:59 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:50:59 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:50:59 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 22:50:59 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:50:59 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 22:50:59 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 22:50:59 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 22:50:59 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 22:50:59 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:51:12 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 22:51:12 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 17128@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:51:12 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:51:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:51:12 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:51:12 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:51:12 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:51:12 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:51:12 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:51:12 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:51:12 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:57:24 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 13748@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:57:24 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 22:57:24 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 22:57:24 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:57:24 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:57:24 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 22:57:24 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 22:57:24 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:57:24 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 22:57:24 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 22:57:24 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:57:24 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 22:57:24 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 22:57:24 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 22:57:24 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 22:57:24 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:57:24 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 22:57:24 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:57:24 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:57:24 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 22:57:24 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:57:24 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 22:57:24 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 22:57:24 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 22:57:24 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 22:57:24 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 22:57:34 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 22:57:34 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 16652@LAPTOP-P1V2HGHC
+
+[2023-04-26 22:57:34 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 22:57:34 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 22:57:34 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 22:57:34 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 22:57:34 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 22:57:34 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 22:57:34 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 22:57:34 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 22:57:34 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:11:24 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-38)
+
+[2023-04-26 23:11:24 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12376@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:11:24 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:11:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:11:24 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:11:24 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:11:24 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:11:24 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:11:24 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:11:24 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:11:24 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:16:32 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 17728@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:16:32 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 23:16:32 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 23:16:32 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:16:32 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:16:32 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 23:16:32 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 23:16:32 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:16:32 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 23:16:32 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 23:16:32 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:16:32 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 23:16:32 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 23:16:32 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 23:16:32 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 23:16:32 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:16:32 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 23:16:32 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:16:32 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:16:32 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 23:16:32 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:16:32 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 23:16:32 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 23:16:32 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 23:16:32 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 23:16:32 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:16:43 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 23:16:43 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 13400@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:16:44 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:16:44 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:16:44 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:16:44 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:16:44 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:16:44 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:16:44 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:16:44 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:16:44 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:19:57 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12132@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:19:57 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 23:19:57 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 23:19:57 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:19:57 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:19:57 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 23:19:57 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 23:19:57 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:19:57 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 23:19:57 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 23:19:57 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:19:57 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 23:19:57 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 23:19:57 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 23:19:57 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 23:19:57 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:19:57 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 23:19:57 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:19:57 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:19:57 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 23:19:57 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:19:57 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 23:19:57 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 23:19:57 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 23:19:57 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 23:19:57 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:20:07 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 23:20:07 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 4940@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:20:07 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:20:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:20:07 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:20:07 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:20:07 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:20:07 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:20:07 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:20:07 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:20:07 #11 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:22:15 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 2824@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:22:16 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-04-26 23:22:16 #3 type.registry] 
+New type domain.User
+
+[2023-04-26 23:22:16 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:22:16 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:22:16 #6 type.registry] 
+New type domain.Mugimendua
+
+[2023-04-26 23:22:16 #7 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-04-26 23:22:16 #8 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:22:16 #9 type.registry] 
+New type domain.Question
+
+[2023-04-26 23:22:16 #10 type.registry] 
+New type domain.Event
+
+[2023-04-26 23:22:16 #11 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:22:16 #12 type.registry] 
+New type domain.Quote
+
+[2023-04-26 23:22:16 #13 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-04-26 23:22:16 #14 type.registry] 
+New type domain.Apostatu
+
+[2023-04-26 23:22:16 #15 type.registry] 
+New type java.util.ArrayList<domain.Apostatu>
+
+[2023-04-26 23:22:16 #16 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:22:16 #17 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-04-26 23:22:16 #18 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:22:16 #19 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:22:16 #20 type.registry] 
+New type domain.Admin
+
+[2023-04-26 23:22:16 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:22:16 #22 type.registry] 
+New type domain.Langile
+
+[2023-04-26 23:22:16 #23 type] 
+Type domain.Langile is not enhanced.
+
+[2023-04-26 23:22:16 #24 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-04-26 23:22:16 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2023-04-26 23:22:16 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-04-26 23:22:25 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-04-26 23:22:25 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 1428@LAPTOP-P1V2HGHC
+
+[2023-04-26 23:22:25 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-04-26 23:22:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-04-26 23:22:25 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-04-26 23:22:25 #6 type] 
+Type domain.Question is not enhanced.
+
+[2023-04-26 23:22:25 #7 type] 
+Type domain.Event is not enhanced.
+
+[2023-04-26 23:22:25 #8 type] 
+Type domain.Quote is not enhanced.
+
+[2023-04-26 23:22:25 #9 type] 
+Type domain.Apostatu is not enhanced.
+
+[2023-04-26 23:22:25 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-04-26 23:22:25 #11 type] 
+Type domain.Langile is not enhanced.
+

@@ -1,0 +1,259 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 18:43:44 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 3152@LAPTOP-P1V2HGHC
+
+[2023-05-03 18:43:44 #2 type.registry] 
+New type domain.Erabiltzaile
+
+[2023-05-03 18:43:44 #3 type.registry] 
+New type domain.User
+
+[2023-05-03 18:43:44 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-03 18:43:44 #5 type.registry] 
+New type domain.Buzoia
+
+[2023-05-03 18:43:44 #6 type] 
+Type domain.User is not enhanced.
+
+[2023-05-03 18:43:44 #7 type.registry] 
+New type domain.Mugimendua
+
+[2023-05-03 18:43:44 #8 type.registry] 
+New type java.util.LinkedList<domain.Mugimendua>
+
+[2023-05-03 18:43:44 #9 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-03 18:43:44 #10 type.registry] 
+New type domain.Mezua
+
+[2023-05-03 18:43:44 #11 type.registry] 
+New type java.util.LinkedList<domain.Mezua>
+
+[2023-05-03 18:43:44 #12 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-03 18:43:44 #13 type.registry] 
+New type domain.Question
+
+[2023-05-03 18:43:44 #14 type.registry] 
+New type domain.Event
+
+[2023-05-03 18:43:44 #15 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-03 18:43:44 #16 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-03 18:43:44 #17 type.registry] 
+New type domain.Quote
+
+[2023-05-03 18:43:44 #18 type.registry] 
+New type java.util.Vector<domain.Quote>
+
+[2023-05-03 18:43:44 #19 type.registry] 
+New type java.util.ArrayList<java.lang.Integer>
+
+[2023-05-03 18:43:44 #20 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-03 18:43:44 #21 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2023-05-03 18:43:44 #22 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-03 18:43:44 #23 type.registry] 
+New type domain.Admin
+
+[2023-05-03 18:43:44 #24 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-03 18:43:44 #25 type.registry] 
+New type domain.Langile
+
+[2023-05-03 18:43:44 #26 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-03 18:43:44 #27 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2023-05-03 18:43:44 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2023-05-03 18:43:44 #29 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 18:44:07 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-05-03 18:44:08 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 11184@LAPTOP-P1V2HGHC
+
+[2023-05-03 18:44:08 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-03 18:44:08 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-03 18:44:08 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-03 18:44:08 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-03 18:44:08 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-03 18:44:08 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-03 18:44:08 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-03 18:44:08 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-03 18:44:08 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-03 18:44:08 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-03 18:46:48 #13 type.registry] 
+New type domain.Apostatu
+
+[2023-05-03 18:46:48 #14 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 18:47:22 #1 server] 
+Server on port 6136 has started by 9660@LAPTOP-P1V2HGHC
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 19:10:38 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-33)
+
+[2023-05-03 19:10:38 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 16580@LAPTOP-P1V2HGHC
+
+[2023-05-03 19:10:38 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-03 19:10:38 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-03 19:10:38 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-03 19:10:38 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-03 19:10:38 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-03 19:10:38 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-03 19:10:38 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-03 19:10:38 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-03 19:10:38 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-03 19:10:38 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-03 19:10:57 #13 type.registry] 
+New type domain.Apostatu
+
+[2023-05-03 19:10:57 #14 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 19:12:16 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 19:15:50 #1 server] 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:193)
+	at com.objectdb.Server.run(Server.java:102)
+	at com.objectdb.ServerRunner.main(ServerRunner.java:31)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-03 19:17:41 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12348@LAPTOP-P1V2HGHC
+
+[2023-05-03 19:17:41 #2 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-03 19:17:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-05-03 19:17:41 #4 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-03 19:17:41 #5 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-03 19:17:41 #6 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-03 19:17:41 #7 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-03 19:17:41 #8 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-03 19:17:41 #9 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-03 19:17:41 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-03 19:17:41 #11 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-03 19:17:58 #12 type.registry] 
+New type domain.Apostatu
+
+[2023-05-03 19:17:58 #13 type] 
+Type domain.Apostatu is not enhanced.
+

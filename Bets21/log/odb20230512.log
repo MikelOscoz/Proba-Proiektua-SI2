@@ -1,0 +1,419 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 08:36:51 #1 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' is opened by 135595@jabox
+
+[2023-05-12 08:36:51 #2 store] 
+Configuration path: ?
+
+[2023-05-12 08:36:52 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 08:36:52 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 08:36:52 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 08:36:52 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 08:36:52 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 08:36:52 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 08:36:52 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 08:36:52 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 08:36:52 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 08:36:52 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 08:36:52 #13 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 08:40:00 #1 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' is opened by 136604@jabox
+
+[2023-05-12 08:40:00 #2 store] 
+Configuration path: /home/josu/eclipse-workspace/Bets21/objectdb.conf
+
+[2023-05-12 08:40:00 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 08:40:00 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 08:40:00 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 08:40:00 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 08:40:00 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 08:40:00 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 08:40:00 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 08:40:00 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 08:40:00 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 08:40:00 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 08:40:00 #13 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 09:54:32 #1 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' has been recovered (tr. 63-65)
+
+[2023-05-12 09:54:32 #2 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' is opened by 159310@jabox
+
+[2023-05-12 09:54:32 #3 store] 
+Configuration path: /home/josu/eclipse-workspace/Bets21/objectdb.conf
+
+[2023-05-12 09:54:32 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 09:54:32 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 09:54:32 #6 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 09:54:32 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 09:54:32 #8 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 09:54:32 #9 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 09:54:32 #10 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 09:54:32 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 09:54:32 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 09:54:32 #13 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 09:54:32 #14 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 10:13:52 #1 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' is opened by 165605@jabox
+
+[2023-05-12 10:13:52 #2 store] 
+Configuration path: /home/josu/eclipse-workspace/Bets21/objectdb.conf
+
+[2023-05-12 10:13:53 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 10:13:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 10:13:53 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 10:13:53 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 10:13:53 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 10:13:53 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 10:13:53 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 10:13:53 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 10:13:53 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 10:13:53 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 10:13:53 #13 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 11:09:50 #1 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' is opened by 182193@jabox
+
+[2023-05-12 11:09:50 #2 store] 
+Configuration path: /home/josu/eclipse-workspace/Bets21/objectdb.conf
+
+[2023-05-12 11:09:51 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 11:09:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 11:09:51 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 11:09:51 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 11:09:51 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 11:09:51 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 11:09:51 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 11:09:51 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 11:09:51 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 11:09:51 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 11:09:51 #13 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 11:11:48 #1 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' has been recovered (tr. 66-72)
+
+[2023-05-12 11:11:49 #2 store] 
+Database '/home/josu/eclipse-workspace/Bets21/src/main/resources/bets.temp' is opened by 182874@jabox
+
+[2023-05-12 11:11:49 #3 store] 
+Configuration path: /home/josu/eclipse-workspace/Bets21/objectdb.conf
+
+[2023-05-12 11:11:49 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 11:11:49 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 11:11:49 #6 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 11:11:49 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 11:11:49 #8 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 11:11:49 #9 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 11:11:49 #10 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 11:11:49 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 11:11:49 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 11:11:49 #13 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 11:11:49 #14 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 15:15:04 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 73-79)
+
+[2023-05-12 15:15:04 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 17152@LAPTOP-P1V2HGHC
+
+[2023-05-12 15:15:04 #3 store] 
+Configuration path: C:\Users\PC\eclipse-workspace\Bets21\objectdb.conf
+
+[2023-05-12 15:15:04 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 15:15:04 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 15:15:04 #6 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 15:15:04 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 15:15:04 #8 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 15:15:04 #9 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 15:15:04 #10 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 15:15:04 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 15:15:04 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 15:15:04 #13 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 15:15:04 #14 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 15:15:37 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 16988@LAPTOP-P1V2HGHC
+
+[2023-05-12 15:15:37 #2 store] 
+Configuration path: C:\Users\PC\eclipse-workspace\Bets21\objectdb.conf
+
+[2023-05-12 15:15:37 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 15:15:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 15:15:37 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 15:15:37 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 15:15:37 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 15:15:37 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 15:15:37 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 15:15:37 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 15:15:37 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 15:15:37 #12 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 15:15:37 #13 type] 
+Type domain.Apostatu is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 21:42:18 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 7364@LAPTOP-P1V2HGHC
+
+[2023-05-12 21:42:18 #2 store] 
+Configuration path: C:\Users\PC\eclipse-workspace\Bets21\objectdb.conf
+
+[2023-05-12 21:42:18 #3 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 21:42:18 #4 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 21:42:18 #5 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 21:42:18 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 21:42:18 #7 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 21:42:18 #8 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 21:42:18 #9 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 21:42:18 #10 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 21:42:18 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 21:42:18 #12 type] 
+Type domain.Langile is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-05-12 21:42:34 #1 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' has been recovered (tr. 1-9)
+
+[2023-05-12 21:42:34 #2 store] 
+Database 'C:\Users\PC\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 16148@LAPTOP-P1V2HGHC
+
+[2023-05-12 21:42:34 #3 store] 
+Configuration path: C:\Users\PC\eclipse-workspace\Bets21\objectdb.conf
+
+[2023-05-12 21:42:34 #4 type] 
+Type domain.Erabiltzaile is not enhanced.
+
+[2023-05-12 21:42:34 #5 type] 
+Type domain.User is not enhanced.
+
+[2023-05-12 21:42:34 #6 type] 
+Type domain.Buzoia is not enhanced.
+
+[2023-05-12 21:42:34 #7 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-05-12 21:42:34 #8 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-05-12 21:42:34 #9 type] 
+Type domain.Question is not enhanced.
+
+[2023-05-12 21:42:34 #10 type] 
+Type domain.Event is not enhanced.
+
+[2023-05-12 21:42:34 #11 type] 
+Type domain.Quote is not enhanced.
+
+[2023-05-12 21:42:34 #12 type] 
+Type domain.Admin is not enhanced.
+
+[2023-05-12 21:42:34 #13 type] 
+Type domain.Langile is not enhanced.
+
+[2023-05-12 21:46:43 #14 type] 
+Type domain.Apostatu is not enhanced.
+
