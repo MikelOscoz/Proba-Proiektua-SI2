@@ -4,7 +4,7 @@ package dataAccess;
 //Aldaketa proba egiteko
 //Aldaketa sonarcloud
 //Aldaketa sonarcloud github-etik
-//Proba beste ordenagailu batetik 
+//Proba beste ordenagailu batetikk 
 import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
