@@ -3,6 +3,7 @@ package dataAccess;
 //hello
 //Aldaketa proba egiteko
 //Aldaketa sonarcloud
+//Aldaketa sonarcloud github-etik
 import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
