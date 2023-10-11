@@ -57,6 +57,8 @@ public class ApustuaEginGUI extends JFrame {
 	private JLabel lblDirua;
 	private JLabel lblEmaitza;
 	private JLabel betMinimum;
+	
+
 
 	/**
 	 * Create the frame.
@@ -96,6 +98,7 @@ public class ApustuaEginGUI extends JFrame {
 		JTextArea textArea = new JTextArea();
 		textArea.setBounds(221, 137, 124, 22);
 		contentPane.add(textArea);
+		
 
 		dateChooser = new JDateChooser();
 		dateChooser.addPropertyChangeListener(new PropertyChangeListener() {
