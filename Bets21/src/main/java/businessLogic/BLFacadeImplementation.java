@@ -1,7 +1,7 @@
 package businessLogic;
 
 import java.util.ArrayList;
-//hola
+//holas
 import java.util.Date;
 import java.util.ResourceBundle;
 import java.util.Vector;
