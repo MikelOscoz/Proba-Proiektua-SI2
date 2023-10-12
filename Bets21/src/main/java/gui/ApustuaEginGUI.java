@@ -58,6 +58,8 @@ public class ApustuaEginGUI extends JFrame {
 	private JLabel lblEmaitza;
 	private JLabel betMinimum;
 	
+	private String ezKuota ="NO Quote";
+	
 
 
 	/**
@@ -110,7 +112,7 @@ public class ApustuaEginGUI extends JFrame {
 					questionLista.removeAllElements();
 					lblQuestion.setText("NO Questions");
 					quoteLista.removeAllElements();
-					lblQuote.setText("NO Quote");
+					lblQuote.setText(ezKuota);
 					ev = facade.getEvents(data);
 					gertaeraLista.addAll(ev);
 					if (ev.isEmpty())
@@ -131,7 +133,7 @@ public class ApustuaEginGUI extends JFrame {
 				if (gertaera != null) {
 					questionLista.removeAllElements();
 					quoteLista.removeAllElements();
-					lblQuote.setText("NO Quote");
+					lblQuote.setText(ezKuota);
 					qu = gertaera.getQuestions();
 					questionLista.addAll(qu);
 					if (qu.isEmpty())
@@ -155,7 +157,7 @@ public class ApustuaEginGUI extends JFrame {
 					q = quest.getQuoteList();
 					quoteLista.addAll(q);
 					if (q.isEmpty())
-						lblQuote.setText("NO Quote");
+						lblQuote.setText(ezKuota);
 					else
 						lblQuote.setText("Quote");
 				}

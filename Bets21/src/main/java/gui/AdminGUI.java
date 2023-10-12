@@ -9,7 +9,6 @@ import javax.swing.*;
 
 import businessLogic.BLFacade;
 import domain.Admin;
-import domain.User;
 
 import java.awt.Color;
 import java.awt.Font;

@@ -1,6 +1,6 @@
 package businessLogic;
 
-import java.util.ArrayList;
+
 //holas
 import java.util.Date;
 import java.util.ResourceBundle;
@@ -84,7 +84,7 @@ public class BLFacadeImplementation implements BLFacade {
 		dbManager.close();
 
 		return qry;
-	};
+	}
 
 	@WebMethod
 	public Quote createQuote(String quote, Question question, double mult) {

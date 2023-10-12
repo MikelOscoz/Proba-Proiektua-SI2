@@ -81,14 +81,11 @@ public interface BLFacade  {
 	
 	@WebMethod public boolean emaitzaBanatu(Quote quote);
 	
-    //@WebMethod public boolean storeApostua(Apostatu ap);
-	//@WebMethod public boolean storeApostua(Apostatu ap,Quote q);
-	
+
 	@WebMethod public User storeMugimenduak(User u, Mugimendua mugi);
 	
 	@WebMethod public User getUser(User u);
-	
-	//@WebMethod public Question addApostuaQuestion(Question q, Apostatu ap);
+
 
 	@WebMethod public boolean storeApostua(Apostatu ap, Vector<Question> q);
 	
